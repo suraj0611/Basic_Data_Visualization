@@ -142,7 +142,7 @@ plt.pie() (Matplotlib)
 
 🚀 How to Run This Project
 1. Clone the repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/suraj0611/Basic_Data_Visualization.git
 2. Install required libraries
 pip install matplotlib seaborn pandas numpy
 3. Open the notebook
